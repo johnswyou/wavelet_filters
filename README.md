@@ -51,6 +51,7 @@ where
 - `db` corresponds to "Daubechies"
 - `fk` corresponds to "Fejér-Korovkin"
 - `han` corresponds to "Han linear-phase moments"
+- `dmey` corresponds to "Discrete Meyer"
 - `mb` corresponds to "Morris minimum-bandwidth"
 - `sym` corresponds to "Symlets"
 - `vaid` corresponds to "Vaidyanathan"
